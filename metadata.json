@@ -1,0 +1,7 @@
+{
+  "name": "Roadrunner Support",
+  "description": "A modern, professional customer assistance website for Roadrunner Support USA, featuring AI-powered help and a responsive layout.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
